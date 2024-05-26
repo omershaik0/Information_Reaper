@@ -52,6 +52,9 @@ The script includes several modules:
 3. **Geolocation Module**: Retrieves geolocation information for the domain's IP address.
 4. **Shodan Module**: Performs a Shodan search for the given IP address or search terms.
 
+## Script Flowchart
+![Alt Text](https://github.com/omershaik0/Information_Reaper/blob/main/information_reaper_flowchart.png)
+
 ## In Action
 ![Alt Text](https://github.com/omershaik0/Information_Reaper/blob/main/Information_Reaper.gif)
 
