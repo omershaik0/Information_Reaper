@@ -149,7 +149,7 @@ geoloc_module()
 # Shodan Module
 def shodan_module():
     if shodan_search_query:
-        shodan_api = shodan.Shodan("tDHnbzcPKmQTeuvzDhLF04zYccG0hw8o")
+        shodan_api = shodan.Shodan("<Your API KEY>") #Add Your API Key here ;)
         if ip_check(shodan_search_query) == "Invalid IP address":
             print("{}[+] Searching SHODAN for term {}{}{}{}".format(background, red, shodan_search_query, reset, reset))
             print()
