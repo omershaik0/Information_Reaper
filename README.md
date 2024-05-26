@@ -52,5 +52,5 @@ The script includes several modules:
 3. **Geolocation Module**: Retrieves geolocation information for the domain's IP address.
 4. **Shodan Module**: Performs a Shodan search for the given IP address or search terms.
 
-## Script Details
+## Disclaimer
 * Use ethically :)
