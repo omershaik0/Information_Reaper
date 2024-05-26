@@ -6,8 +6,9 @@ import requests
 import argparse
 import socket
 import re
-from colorama import Fore, Back, Style
+from colorama import init, Fore, Back, Style
 
+init()
 # Colors inside variables
 r, g, b = 255, 165, 0
 def rgb(r, g, b):
